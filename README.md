@@ -1,5 +1,5 @@
-# Ola eu sou a Sara Gonçalves 🖐
-👩‍💻Atialmente estudando Desenvolvimento BackEnd
+Ola eu sou a Sara Gonçalves 🖐
+👩‍💻Atualmente estudando Desenvolvimento BackEnd
 👩Pronomes: Ela/Dela
 
 
